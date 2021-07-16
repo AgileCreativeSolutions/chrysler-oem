@@ -152,7 +152,7 @@ text-transform: uppercase;
 font-size: .8125rem;
 letter-spacing: .5px;
 min-width: 180px;
-transition: background-color 250ms ease-in-out;
+transition: 250ms ease-in-out 0ms;;
 }
 .acs-button:hover {
 background-color: var(--accent3);
@@ -176,7 +176,7 @@ text-transform: uppercase;
 font-size: .8125rem;
 letter-spacing: .5px;
 min-width: 180px;
-transition: background-color 250ms ease-in-out;
+transition: 250ms ease-in-out 0ms;;
 }
 .acs-button2:hover {
 background-color: var(--gray);
@@ -198,7 +198,7 @@ text-transform: uppercase;
 font-size: .8125rem;
 letter-spacing: .5px;
 min-width: 180px;
-transition: background-color 250ms ease-in-out;
+transition: 250ms ease-in-out 0ms;;
 }
 
 /* Button 4 */
@@ -217,7 +217,7 @@ text-transform: uppercase;
 font-size: .8125rem;
 letter-spacing: .5px;
 min-width: 180px;
-transition: background-color 250ms ease-in-out;
+transition: 250ms ease-in-out 0ms;;
 }
 .acs-button4:hover {
 background-color: var(--black);
