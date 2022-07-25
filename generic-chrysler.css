@@ -84,22 +84,22 @@ font-size: 1.2rem !important;
 
 
 /* OEM Font Variables */
-.chrysler-brand-rg {
+.cjdr-brand-rg {
 font-family: "Roboto", sans-serif !important; 
 font-weight: 400 !important;
 }
 
-.chrysler-brand-sb {
+.cjdr-brand-sb {
 font-family: "Roboto", sans-serif !important;
 font-weight: 500 !important;
 }
 
-.chrysler-brand-bd {
+.cjdr-brand-bd {
 font-family: "Roboto", sans-serif !important;
 font-weight: 700 !important;
 }
 
-.rhd-rg {
+.rhd-head-rg {
 font-family: "Red Hat Display", sans-serif; !important; 
 font-weight: 400 !important;
 }
